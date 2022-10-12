@@ -1,0 +1,21 @@
+h1 {
+    color: burlywood;
+    text-align: center;
+    margin-top: 40px;
+    
+}
+h2 {
+    color: hotpink;
+    font-size: large;
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.item {
+
+}
+
+
